@@ -1,71 +1,119 @@
-# Hi, I'm Aasveer Singh 👋
+# 👋 Hey, I'm Aasveer
 
-### AI & Full-Stack Developer
+### `AI × Full-Stack × Builder`
 
-I build practical, AI-powered products with modern web technologies.
+I build AI-powered products that are meant to be **used**, not just added to a portfolio.
 
-I'm focused on turning ideas into real products, combining thoughtful frontend experiences, scalable backend systems, and useful AI features.
+Currently turning ideas into working software with **TypeScript, React, Python, and AI.**
 
-## 🛠️ Tech Stack
-
-**Languages:** TypeScript · JavaScript · Python
-
-**Frontend:** React · Next.js · HTML · CSS
-
-**Backend:** Node.js · REST APIs · SQL
-
-**AI:** Generative AI · AI APIs · AI-powered applications
+> 💡 Idea → 🧠 AI → ⚙️ Build → 🚀 Ship → 🔁 Improve
 
 ---
 
-## 🌟 Featured Projects
+## 🧰 My Stack
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
+**Backend:** Node.js · FastAPI · REST APIs  
+**AI / ML:** Gemini · Machine Learning · NLP · RAG · OCR  
+**Data:** SQL · SQLite · TF-IDF · Analytics  
+**Tools:** Git · GitHub · Vite · Streamlit
+
+---
+
+## 🚀 Featured Projects
+
+> Three projects. Three different problems. One goal: **making AI actually useful.**
 
 ### 🎟️ SmartQueue AI
 
-AI-powered digital queue management with real-time token tracking, smart prioritization, multi-counter staff dispatch, live queue displays, AI insights, and analytics.
+AI-powered queue management for smarter, faster service.
+
+Real-time token tracking, smart prioritization, multi-counter staff dispatch, live queue displays, analytics, and AI insights.
 
 **Tech:** React · TypeScript · Vite · Tailwind CSS · Gemini · Node.js
 
-🔗 [View Project](https://github.com/singhaasveer-lab/smartqueue-ai)
+🔗 [Explore SmartQueue AI](https://github.com/singhaasveer-lab/smartqueue-ai)
+
+---
+
+### 🥀 Wingman AI
+
+Dating intelligence without the guesswork.
+
+Analyze conversations, understand context, get decision support, improve replies, and discover date ideas through one AI-powered platform.
+
+**Tech:** Python · Streamlit · FastAPI · Scikit-learn · NLP · RAG · OCR
+
+🔗 [Explore Wingman AI](https://github.com/singhaasveer-lab/wingman_ai)
 
 ---
 
 ### 🎁 GiftBro AI
 
-AI-powered personalized gift recommendation system combining hybrid machine learning ranking with Google Gemini for personalized recommendations.
+Gift shopping, but make it intelligent.
+
+A personalized recommendation engine combining hybrid machine learning, TF-IDF, similarity ranking, and Google Gemini.
 
 **Tech:** Python · Streamlit · FastAPI · Scikit-learn · TF-IDF · Gemini · SQLite
 
-🔗 [View Project](https://github.com/singhaasveer-lab/giftbro-ai)
+🔗 [Explore GiftBro AI](https://github.com/singhaasveer-lab/giftbro-ai)
 
 ---
 
-## 🎯 Current Focus
+## 🧠 What I'm Into
 
-- Building production-ready AI applications
-- Developing stronger full-stack engineering skills
-- Integrating AI into modern web applications
-- Writing clean, maintainable TypeScript and React code
-- Turning ideas into useful real-world products
-
-## 🚀 Currently Building
-
-I'm continuing to develop new AI-powered applications and improving my existing projects with better architecture, user experience, and intelligent features.
-
-More projects will be added here as they reach a polished, production-ready stage.
-
-## 📊 GitHub
-
-I use GitHub to build, experiment, collaborate, and document my development journey.
-
-Most of my work focuses on **AI applications, full-stack development, recommendation systems, and modern web technologies.**
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aasveer%20Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aasveer-singh/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-singhaasveer--lab-black?style=flat&logo=github)](https://github.com/singhaasveer-lab)
+🤖 AI Engineering  
+🧩 Full-Stack Development  
+🧠 Machine Learning  
+⚡ Real-Time Applications  
+🎨 Clean UI / UX  
+📊 Data & Analytics  
+🔌 APIs & Backend Systems  
+🚀 Shipping Real Products
 
 ---
 
-*Building ideas into products, one commit at a time.* 🚀
+## 🔭 Currently Building
+
+→ Building production-ready AI applications  
+→ Getting better at full-stack architecture  
+→ Experimenting with modern AI workflows  
+→ Writing cleaner, scalable code  
+→ Turning ideas into products people can actually use
+
+---
+
+## ⚡ My Dev Philosophy
+
+> Don't just learn the technology.  
+> **Build something with it.**
+>
+> Don't just build something.  
+> **Make it useful.**
+>
+> Don't just make it useful.  
+> **Ship it.**
+
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in:
+
+**AI products · Full-stack apps · ML systems · GenAI · Developer tools · Ideas that might actually work**
+
+If you're building something interesting, let's talk.
+
+---
+
+## 🌐 Find Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/aasveer-singh)  
+🐙 [GitHub](https://github.com/singhaasveer-lab)  
+📧 singhaasveer@gmail.com
+
+---
+
+### `currently: building > talking about building`
+
+**Turning ideas into products, one commit at a time. 🚀**
